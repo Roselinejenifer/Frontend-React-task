@@ -92,8 +92,7 @@ const CharacterDetail = () => {
             m={6}
           />
           <Box
-            m={6}
-            mr={0}
+            p={6}
             textAlign="left"
             sx={{ height: "90vh", width: "auto", overflow: "scroll" }}
           >
